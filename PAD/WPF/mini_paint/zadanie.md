@@ -2,8 +2,8 @@
 
 ## Wygląd aplikacji
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <img src="./minipaint1.png" style="width: 50%; min-width: 250px; max-width: 400px; height: auto;">
-  <img src="./minipaint2.png" style="width: 50%; min-width: 250px; max-width: 400px; height: auto;">
+  <img src="./minipaint1.png" style="width: 45%; min-width: 250px; max-width: 300px; height: auto;">
+  <img src="./minipaint2.png" style="width: 45%; min-width: 250px; max-width: 300px; height: auto;">
 </div>
 
 ## Opis wyglądu aplikacji:
