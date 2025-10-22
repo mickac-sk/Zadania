@@ -16,7 +16,7 @@ Celem jest przećwiczenie:
 
 ### 1. Przygotowanie Projektu
 
-1.  Uruchom Visual Studio i stwórz nowy projekt typu **Aplikacja WPF** (.NET Framework lub .NET Core).
+1.  Uruchom Visual Studio i stwórz nowy projekt typu **Aplikacja WPF** (.NET Core).
 2.  Nadaj projektowi nazwę, np. `QuizApp`.
 
 ### 2. Model Danych (Klasa `Question`)
