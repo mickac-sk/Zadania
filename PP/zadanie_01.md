@@ -23,3 +23,37 @@ Napisz program, który będzie prostym kalkulatorem geometrycznym. Program powin
 5.  Wyświetl obliczone pole i/lub obwód dla wybranej figury.
 6.  Jeśli użytkownik wybierze nieprawidłową opcję (inną niż 1-4), wyświetl komunikat o błędzie.
 7.  Użyj instrukcji `switch` lub `if-else if-else` do obsługi wyboru użytkownika.
+
+## Zadanie 2: Dodaj Pole Trapezu
+
+Rozbuduj program "Kalkulator figur geometrycznych" z Zadania 1. Dodaj nową opcję (np. numer 5) do menu, która pozwoli użytkownikowi obliczyć **pole trapezu**.
+
+**Wymagania:**
+
+1.  Zaktualizuj menu, dodając opcję:
+    * `5 - Trapez (tylko pole)`
+2.  W instrukcji `switch` lub `if-else if-else` dodaj nowy przypadek dla wyboru 5.
+3.  Po wybraniu opcji 5, program powinien poprosić użytkownika o podanie:
+    * Długości pierwszej podstawy (`a`) - `double`.
+    * Długości drugiej podstawy (`b`) - `double`.
+    * Wysokości trapezu (`h`) - `double`.
+4.  Program powinien obliczyć pole trapezu, korzystając ze wzoru: `Pole = 0.5 * (a + b) * h`.
+5.  Program powinien wyświetlić obliczone pole trapezu.
+6.  Zaktualizuj obsługę nieprawidłowego wyboru, aby uwzględniała nową opcję.
+
+## Zadanie 3: Wybór Obliczeń (Pole/Obwód)
+
+Zmodyfikuj program "Kalkulator figur geometrycznych" (już z dodanym trapezem). Po wybraniu figury, dla której liczymy zarówno pole, jak i obwód (kwadrat, prostokąt, koło), program powinien dodatkowo zapytać użytkownika, co dokładnie chce obliczyć.
+
+**Wymagania:**
+
+1.  Wewnątrz bloków kodu (`case` lub `if`) dla kwadratu, prostokąta i koła, dodaj dodatkowe pytanie do użytkownika:
+    * `1 - Oblicz tylko pole`
+    * `2 - Oblicz tylko obwód`
+    * `3 - Oblicz pole i obwód`
+2.  Wczytaj ten drugi wybór użytkownika (1, 2 lub 3).
+3.  Na podstawie tego drugiego wyboru, wyświetl tylko te wyniki, które wybrał użytkownik.
+    * Jeśli wybrał 1, pokaż tylko pole.
+    * Jeśli wybrał 2, pokaż tylko obwód.
+    * Jeśli wybrał 3, pokaż oba wyniki.
+4.  Dla trójkąta i trapezu (gdzie liczymy tylko pole) nie musisz dodawać tego podmenu.
