@@ -1,0 +1,375 @@
+2023-11-15 08:00:01;INFO;Aplikacja uruchomiona.
+2023-11-15 08:00:02;INFO;Nawiązano połączenie z bazą danych (serwer: db.prod.local).
+2023-11-15 08:00:03;WARNING;Nie znaleziono pliku konfiguracyjnego 'settings_local.xml'. Użyto wartości domyślnych.
+2023-11-15 08:05:10;INFO;Użytkownik 'anowak' zalogowany.
+2023-11-15 08:05:12;INFO;Pobrano dane dla klienta ID: 1023.
+2023-11-15 08:07:25;INFO;Użytkownik 'pzielinski' zalogowany.
+2023-11-15 08:07:30;INFO;Pobrano dane dla klienta ID: 1024.
+2023-11-15 08:09:11;INFO;Użytkownik 'kmakota' zalogowany.
+2023-11-15 08:09:12;INFO;Pobrano dane dla klienta ID: 1025.
+2023-11-15 08:11:01;INFO;Użytkownik 'jbrzeczyszczykiewicz' zalogowany.
+2023-11-15 08:11:03;INFO;Pobrano dane dla klienta ID: 1026.
+2023-11-15 08:14:59;INFO;Pobrano dane dla klienta ID: 1027.
+
+2023-11-15 08:15:00;ERROR;Nie udało się przetworzyć żądania nr 12345. Błąd: NullReferenceException w module 'Processing'.
+2023-11-15 08:15:01;INFO;Użytkownik 'admin' zalogowany.
+BAD_TIMESTAMP;ERROR;Krytyczny błąd systemu plików! Nie można odczytać sektora.
+2023-11-15 08:15:03;INFO;Zakończono operację przetwarzania wsadowego.
+2023-11-15 08:15:04;INFO;Pobrano dane dla klienta ID: 1028.
+
+2023-11-15 08:16:00;WARNING;Tylko dwie części.
+########### RESTART SERWERA ###########
+2023-11-15 09:00:01;INFO;Aplikacja uruchomiona.
+2023-11-15 09:00:02;INFO;Nawiązano połączenie z bazą danych (serwer: db.prod.local).
+2023-11-15 09:01:00;WARNING;Hasło użytkownika 'anowak' wygasa za 3 dni.
+2023-11-15 09:02:15;INFO;Użytkownik 'anowak' zalogowany.
+2023-11-15 09:02:17;INFO;Pobrano dane dla klienta ID: 1023.
+2023-11-15 09:03:00;INFO;Rozpoczęto zadanie cykliczne: Wysyłanie newslettera.
+2023-11-15 09:05:00;INFO;Wysłano 1500 maili.
+2023-11-15 09:07:00;INFO;Wysłano 3000 maili.
+2023-11-15 09:07:12;ERROR;Nie udało się wysłać maila do 'test@example.com'. Błąd: SMTP Connection Refused.
+2023-11-15 09:07:13;INFO;Wysłano 3001 maili.
+2023-11-15 09:09:00;INFO;Wysłano 4500 maili.
+2023-11-15 09:10:00;INFO;Zakończono zadanie cykliczne: Wysyłanie newslettera.
+2024-01-10 10:00:00;INFO;Aplikacja uruchomiona.
+2024-01-10 10:00:01;INFO;Nawiązano połączenie z bazą danych (serwer: db.prod.local).
+2024-01-10 10:01:00;INFO;Rozpoczęto przetwarzanie importu 'import_styczen_2024.csv'.
+2024-01-10 10:01:01;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 1.
+2024-01-10 10:01:01;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 2.
+2024-01-10 10:01:02;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 3.
+2024-01-10 10:01:02;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 4.
+2024-01-10 10:01:03;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 5.
+2024-01-10 10:01:03;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 6.
+2024-01-10 10:01:04;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 7.
+2024-01-10 10:01:04;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 8.
+2024-01-10 10:01:05;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 9.
+2024-01-10 10:01:05;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 10.
+2024-01-10 10:01:06;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 11.
+2024-01-10 10:01:06;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 12.
+2024-01-10 10:01:07;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 13.
+2024-01-10 10:01:07;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 14.
+2024-01-10 10:01:08;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 15.
+2024-01-10 10:01:08;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 16.
+2024-01-10 10:01:09;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 17.
+2024-01-10 10:01:09;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 18.
+2024-01-10 10:01:10;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 19.
+2024-01-10 10:01:10;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 20.
+2024-01-10 10:01:11;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 21.
+2024-01-10 10:01:11;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 22.
+2024-01-10 10:01:12;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 23.
+2024-01-10 10:01:12;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 24.
+2024-01-10 10:01:13;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 25.
+2024-01-10 10:01:13;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 26.
+2024-01-10 10:01:14;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 27.
+2024-01-10 10:01:14;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 28.
+2024-01-10 10:01:15;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 29.
+2024-01-10 10:01:15;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 30.
+2024-01-10 10:01:16;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 31.
+2024-01-10 10:01:16;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 32.
+2024-01-10 10:01:17;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 33.
+2024-01-10 10:01:17;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 34.
+2024-01-10 10:01:18;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 35.
+2024-01-10 10:01:18;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 36.
+2024-01-10 10:01:19;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 37.
+2024-01-10 10:01:19;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 38.
+2024-01-10 10:01:20;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 39.
+2024-01-10 10:01:20;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 40.
+2024-01-10 10:01:21;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 41.
+2024-01-10 10:01:21;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 42.
+2024-01-10 10:01:22;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 43.
+2024-01-10 10:01:22;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 44.
+2024-01-10 10:01:23;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 45.
+2024-01-10 10:01:23;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 46.
+2024-01-10 10:01:24;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 47.
+2O24-01-10 10:01:24;INFO;Literówka w dacie.
+2024-01-10 10:01:25;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 49.
+2024-01-10 10:01:25;INFO;Przetwarzanie pliku 'import_styczen_2024.csv'. Linia 50.
+2024-01-10 10:01:26;INFO;Zakończono import 'import_styczen_2024.csv'. Przetworzono 50 linii.
+
+2024-01-10 10:02:00;INFO;Użytkownik 'jnowicki' zalogowany.
+2024-01-10 10:02:01;INFO;Pobrano dane dla klienta ID: 2001.
+2024-01-10 10:02:05;INFO;Użytkownik 'kbeata' zalogowana.
+2024-01-10 10:02:07;INFO;Pobrano dane dla klienta ID: 2002.
+2024-01-10 10:03:00;WARNING;Połączenie z API 'api.faktury.pl' trwało zbyt długo (3500ms).
+2024-01-10 10:03:10;INFO;Pobrano dane dla klienta ID: 2003.
+2024-01-10 10:04:15;INFO;Użytkownik 'anowak' zalogowany.
+2024-01-10 10:04:17;INFO;Pobrano dane dla klienta ID: 1023.
+2024-01-10 10:05:00;ERROR;Nie można nawiązać połączenia z serwerem bazy danych. Błąd: Connection Timeout.
+2024-01-10 10:05:05;INFO;Ponowienie próby połączenia z bazą danych...
+2024-01-10 10:05:10;INFO;Nawiązano połączenie z bazą danych (serwer: db.prod.local).
+2024-01-10 10:05:12;INFO;Pobrano dane dla klienta ID: 2004.
+2024-01-10 10:06:01;INFO;Użytkownik 'pzielinski' zalogowany.
+2024-01-10 10:06:03;INFO;Pobrano dane dla klienta ID: 1024.
+2024-01-10 10:07:10;INFO;Użytkownik 'jbrzeczyszczykiewicz' zalogowany.
+2024-01-10 10:07:12;INFO;Pobrano dane dla klienta ID: 1026.
+2024-01-10 10:08:20;INFO;Użytkownik 'kmakota' zalogowany.
+2024-01-10 10:08:22;INFO;Pobrano dane dla klienta ID: 1025.
+2024-01-10 10:09:30;INFO;Użytkownik 'admin' zalogowany.
+2024-01-10 10:09:33;INFO;Pobrano dane dla klienta ID: 1028.
+2024-01-10 10:10:00;WARNING;Dysk jest prawie pełny (88% zapełnienia).
+2024-01-10 10:10:01;INFO;Użytkownik 'jnowicki' zalogowany.
+2024-01-10 10:10:03;INFO;Pobrano dane dla klienta ID: 2001.
+2024-01-10 10:11:05;INFO;Użytkownik 'kbeata' zalogowana.
+2024-01-10 10:11:07;INFO;Pobrano dane dla klienta ID: 2002.
+2024-01-10 10:12:10;INFO;Pobrano dane dla klienta ID: 2003.
+2024-01-10 10:13:15;INFO;Użytkownik 'anowak' zalogowany.
+2024-01-10 10:13:17;INFO;Pobrano dane dla klienta ID: 1023.
+2024-01-10 10:14:01;INFO;Użytkownik 'pzielinski' zalogowany.
+2024-01-10 10:14:03;INFO;Pobrano dane dla klienta ID: 1024.
+2024-01-10 10:15:10;INFO;Użytkownik 'jbrzeczyszczykiewicz' zalogowany.
+2024-01-10 10:15:12;INFO;Pobrano dane dla klienta ID: 1026.
+2024-01-10 10:16:20;INFO;Użytkownik 'kmakota' zalogowany.
+2024-01-10 10:16:22;INFO;Pobrano dane dla klienta ID: 1025.
+2024-01-10 10:17:30;INFO;Użytkownik 'admin' zalogowany.
+2024-01-10 10:17:33;INFO;Pobrano dane dla klienta ID: 1028.
+2024-01-10 10:18:01;INFO;Użytkownik 'jnowicki' zalogowany.
+2024-01-10 10:18:03;INFO;Pobrano dane dla klienta ID: 2001.
+2024-01-10 10:19:05;INFO;Użytkownik 'kbeata' zalogowana.
+2024-01-10 10:19:07;INFO;Pobrano dane dla klienta ID: 2002.
+2024-01-10 10:20:10;INFO;Pobrano dane dla klienta ID: 2003.
+2024-01-10 10:21:15;INFO;Użytkownik 'anowak' zalogowany.
+2024-01-10 10:21:17;INFO;Pobrano dane dla klienta ID: 1023.
+2024-01-10 10:22:01;INFO;Użytkownik 'pzielinski' zalogowany.
+2024-01-10 10:22:03;INFO;Pobrano dane dla klienta ID: 1024.
+2024-01-10 10:23:10;INFO;Użytkownik 'jbrzeczyszczykiewicz' zalogowany.
+2024-01-10 10:23:12;INFO;Pobrano dane dla klienta ID: 1026.
+2024-01-10 10:24:20;INFO;Użytkownik 'kmakota' zalogowany.
+2024-01-10 10:24:22;INFO;Pobrano dane dla klienta ID: 1025.
+2024-01-10 10:25:30;INFO;Użytkownik 'admin' zalogowany.
+2024-01-10 10:25:33;INFO;Pobrano dane dla klienta ID: 1028.
+2024-01-10 10:26:01;INFO;Użytkownik 'jnowicki' zalogowany.
+2024-01-10 10:26:03;INFO;Pobrano dane dla klienta ID: 2001.
+2024-01-10 10:27:05;INFO;Użytkownik 'kbeata' zalogowana.
+2024-01-10 10:27:07;INFO;Pobrano dane dla klienta ID: 2002.
+2024-01-10 10:28:10;INFO;Pobrano dane dla klienta ID: 2003.
+2024-01-10 10:29:15;INFO;Użytkownik 'anowak' zalogowany.
+2024-01-10 10:29:17;INFO;Pobrano dane dla klienta ID: 1023.
+2024-01-10 10:30:00;INFO;Użytkownik 'pzielinski' zalogowany.
+2024-01-10 10:30:01;INFO;Pobrano dane dla klienta ID: 1024.
+2024-01-10 10:30:02,INFO,Użyto przecinka zamiast średnika.
+2024-01-10 10:31:10;INFO;Użytkownik 'jbrzeczyszczykiewicz' zalogowany.
+2024-01-10 10:31:12;INFO;Pobrano dane dla klienta ID: 1026.
+2024-01-10 10:32:20;INFO;Użytkownik 'kmakota' zalogowany.
+2024-01-10 10:32:22;INFO;Pobrano dane dla klienta ID: 1025.
+2024-01-10 10:33:30;INFO;Użytkownik 'admin' zalogowany.
+2024-01-10 10:33:33;INFO;Pobrano dane dla klienta ID: 1028.
+2024-01-10 10:34:01;INFO;Użytkownik 'jnowicki' zalogowany.
+2024-01-10 10:34:03;INFO;Pobrano dane dla klienta ID: 2001.
+2024-01-10 10:35:05;INFO;Użytkownik 'kbeata' zalogowana.
+2024-01-10 10:35:07;INFO;Pobrano dane dla klienta ID: 2002.
+2024-01-10 10:36:10;INFO;Pobrano dane dla klienta ID: 2003.
+2024-01-10 10:37:15;INFO;Użytkownik 'anowak' zalogowany.
+2024-01-10 10:37:17;INFO;Pobrano dane dla klienta ID: 1023.
+2024-01-10 10:38:01;INFO;Użytkownik 'pzielinski' zalogowany.
+2024-01-10 10:38:03;INFO;Pobrano dane dla klienta ID: 1024.
+2024-01-10 10:39:10;INFO;Użytkownik 'jbrzeczyszczykiewicz' zalogowany.
+2024-01-10 10:39:12;INFO;Pobrano dane dla klienta ID: 1026.
+2024-01-10 10:40:20;INFO;Użytkownik 'kmakota' zalogowany.
+2024-01-10 10:40:22;INFO;Pobrano dane dla klienta ID: 1025.
+2024-01-10 10:41:30;INFO;Użytkownik 'admin' zalogowany.
+2024-01-10 10:41:33;INFO;Pobrano dane dla klienta ID: 1028.
+2024-01-10 10:42:01;INFO;Użytkownik 'jnowicki' zalogowany.
+2024-01-10 10:42:03;INFO;Pobrano dane dla klienta ID: 2001.
+2024-01-10 10:43:05;INFO;Użytkownik 'kbeata' zalogowana.
+2024-01-10 10:43:07;INFO;Pobrano dane dla klienta ID: 2002.
+2024-01-10 10:44:10;INFO;Pobrano dane dla klienta ID: 2003.
+2024-01-10 10:45:15;INFO;Użytkownik 'anowak' zalogowany.
+2024-01-10 10:45:17;INFO;Pobrano dane dla klienta ID: 1023.
+2024-01-10 10:46:01;INFO;Użytkownik 'pzielinski' zalogowany.
+2024-01-10 10:46:03;INFO;Pobrano dane dla klienta ID: 1024.
+2024-01-10 10:47:10;INFO;Użytkownik 'jbrzeczyszczykiewicz' zalogowany.
+2024-01-10 10:47:12;INFO;Pobrano dane dla klienta ID: 1026.
+2024-01-10 10:48:20;INFO;Użytkownik 'kmakota' zalogowany.
+2024-01-10 10:48:22;INFO;Pobrano dane dla klienta ID: 1025.
+2024-01-10 10:49:30;INFO;Użytkownik 'admin' zalogowany.
+2024-01-10 10:49:33;INFO;Pobrano dane dla klienta ID: 1028.
+2024-01-10 10:50:00;WARNING;Dysk jest prawie pełny (89% zapełnienia).
+2024-01-10 10:50:01;INFO;Użytkownik 'jnowicki' zalogowany.
+2024-01-10 10:50:03;INFO;Pobrano dane dla klienta ID: 2001.
+2024-01-10 10:51:05;INFO;Użytkownik 'kbeata' zalogowana.
+2024-01-10 10:51:07;INFO;Pobrano dane dla klienta ID: 2002.
+2024-01-10 10:52:10;INFO;Pobrano dane dla klienta ID: 2003.
+2024-01-10 10:53:15;INFO;Użytkownik 'anowak' zalogowany.
+2024-01-10 10:53:17;INFO;Pobrano dane dla klienta ID: 1023.
+2024-01-10 10:54:01;INFO;Użytkownik 'pzielinski' zalogowany.
+2024-01-10 10:54:03;INFO;Pobrano dane dla klienta ID: 1024.
+2024-01-10 10:55:10;INFO;Użytkownik 'jbrzeczyszczykiewicz' zalogowany.
+2024-01-10 10:55:12;INFO;Pobrano dane dla klienta ID: 1026.
+2024-01-10 10:56:20;INFO;Użytkownik 'kmakota' zalogowany.
+2024-01-10 10:56:22;INFO;Pobrano dane dla klienta ID: 1025.
+2024-01-10 10:57:30;INFO;Użytkownik 'admin' zalogowany.
+2024-01-10 10:57:33;INFO;Pobrano dane dla klienta ID: 1028.
+2024-01-10 10:58:01;INFO;Użytkownik 'jnowicki' zalogowany.
+2024-01-10 10:58:03;INFO;Pobrano dane dla klienta ID: 2001.
+2024-01-10 10:59:05;INFO;Użytkownik 'kbeata' zalogowana.
+2024-01-10 10:59:07;INFO;Pobrano dane dla klienta ID: 2002.
+2024-05-20 09:11:00;WARNING;Połączenie z API 'api.faktury.pl' trwało zbyt długo (3500ms).
+2024-05-20 09:11:05;ERROR;Nie można nawiązać połączenia z serwerem bazy danych. Błąd: Connection Timeout.
+2024-05-20 09:11:10;INFO;Ponowiono połączenie z bazą danych.
+2024-05-20 10:00:01;INFO;Użytkownik 'jnowicki' zalogowany.
+2024-05-20 10:00:03;INFO;Pobrano dane dla klienta ID: 2001.
+2024-05-20 10:01:05;INFO;Użytkownik 'kbeata' zalogowana.
+2024-05-20 10:01:07;INFO;Pobrano dane dla klienta ID: 2002.
+2024-05-20 10:02:10;INFO;Pobrano dane dla klienta ID: 2003.
+2024-05-20 10:03:15;INFO;Użytkownik 'anowak' zalogowany.
+2024-05-20 10:03:17;INFO;Pobrano dane dla klienta ID: 1023.
+2024-05-20 10:04:01;INFO;Użytkownik 'pzielinski' zalogowany.
+2024-05-20 10:04:03;INFO;Pobrano dane dla klienta ID: 1024.
+2024-05-20 10:05:10;INFO;Użytkownik 'jbrzeczyszczykiewicz' zalogowany.
+2024-05-20 10:05:12;INFO;Pobrano dane dla klienta ID: 1026.
+2024-05-20 10:06:20;INFO;Użytkownik 'kmakota' zalogowany.
+2024-05-20 10:06:22;INFO;Pobrano dane dla klienta ID: 1025.
+2024-05-20 10:07:30;INFO;Użytkownik 'admin' zalogowany.
+2024-05-20 10:07:33;INFO;Pobrano dane dla klienta ID: 1028.
+2024-05-20 10:08:01;INFO;Użytkownik 'jnowicki' zalogowany.
+2024-05-20 10:08:03;INFO;Pobrano dane dla klienta ID: 2001.
+2024-05-20 10:09:05;INFO;Użytkownik 'kbeata' zalogowana.
+2024-05-20 10:09:07;INFO;Pobrano dane dla klienta ID: 2002.
+2024-05-20 10:10:10;INFO;Pobrano dane dla klienta ID: 2003.
+2024-05-20 10:11:15;INFO;Użytkownik 'anowak' zalogowany.
+2024-05-20 10:11:17;INFO;Pobrano dane dla klienta ID: 1023.
+2024-05-20 10:12:01;INFO;Użytkownik 'pzielinski' zalogowany.
+2024-05-20 10:12:03;INFO;Pobrano dane dla klienta ID: 1024.
+2024-05-20 10:13:10;INFO;Użytkownik 'jbrzeczyszczykiewicz' zalogowany.
+2024-05-20 10:13:12;INFO;Pobrano dane dla klienta ID: 1026.
+2024-05-20 10:14:20;INFO;Użytkownik 'kmakota' zalogowany.
+2024-05-20 10:14:22;INFO;Pobrano dane dla klienta ID: 1025.
+2024-05-20 10:15:30;INFO;Użytkownik 'admin' zalogowany.
+2024-05-20 10:15:33;INFO;Pobrano dane dla klienta ID: 1028.
+2024-05-20 10:16:01;INFO;Użytkownik 'jnowicki' zalogowany.
+2024-05-20 10:16:03;INFO;Pobrano dane dla klienta ID: 2001.
+2024-05-20 10:17:05;INFO;Użytkownik 'kbeata' zalogowana.
+2024-05-20 10:17:07;INFO;Pobrano dane dla klienta ID: 2002.
+2024-05-20 10:18:10;INFO;Pobrano dane dla klienta ID: 2003.
+2024-05-20 10:19:15;INFO;Użytkownik 'anowak' zalogowany.
+2024-05-20 10:19:17;INFO;Pobrano dane dla klienta ID: 1023.
+2024-05-20 10:20:01;INFO;Użytkownik 'pzielinski' zalogowany.
+2024-05-20 10:20:03;INFO;Pobrano dane dla klienta ID: 1024.
+2024-05-20 10:21:10;INFO;Użytkownik 'jbrzeczyszczykiewicz' zalogowany.
+2024-05-20 10:21:12;INFO;Pobrano dane dla klienta ID: 1026.
+2024-05-20 10:22:20;INFO;Użytkownik 'kmakota' zalogowany.
+2024-05-20 10:22:22;INFO;Pobrano dane dla klienta ID: 1025.
+2024-05-20 10:23:30;INFO;Użytkownik 'admin' zalogowany.
+2024-05-20 10:23:33;INFO;Pobrano dane dla klienta ID: 1028.
+2024-05-20 10:24:01;INFO;Użytkownik 'jnowicki' zalogowany.
+2024-05-20 10:24:03;INFO;Pobrano dane dla klienta ID: 2001.
+2024-05-20 10:25:05;INFO;Użytkownik 'kbeata' zalogowana.
+2024-05-20 10:25:07;INFO;Pobrano dane dla klienta ID: 2002.
+2024-05-20 10:26:10;INFO;Pobrano dane dla klienta ID: 2003.
+2024-05-20 10:27:15;INFO;Użytkownik 'anowak' zalogowany.
+2024-05-20 10:27:17;INFO;Pobrano dane dla klienta ID: 1023.
+2024-05-20 10:28:01;INFO;Użytkownik 'pzielinski' zalogowany.
+2024-05-20 10:28:03;INFO;Pobrano dane dla klienta ID: 1024.
+2024-05-20 10:29:10;INFO;Użytkownik 'jbrzeczyszczykiewicz' zalogowany.
+2024-05-20 10:29:12;INFO;Pobrano dane dla klienta ID: 1026.
+2024-05-20 10:30:20;INFO;Użytkownik 'kmakota' zalogowany.
+2024-05-20 10:30:22;INFO;Pobrano dane dla klienta ID: 1025.
+2024-10-28 12:00:00;INFO;Aplikacja uruchomiona.
+2024-10-28 12:00:01;INFO;Nawiązano połączenie z bazą danych (serwer: db.prod.local).
+2024-10-28 12:05:00;WARNING;Dysk jest prawie pełny (91% zapełnienia).
+2024-10-28 12:05:15;ERROR;Błąd parsowania pliku XML: 'Nieoczekiwany tag <price> w linii 234'.
+2024-10-28 12:10:01;INFO;Przetwarzanie żądania API GET /api/produkty/1.
+2024-10-28 12:10:01;INFO;Przetwarzanie żądania API GET /api/produkty/2.
+2024-10-28 12:10:02;INFO;Przetwarzanie żądania API GET /api/produkty/3.
+2024-10-28 12:10:02;INFO;Przetwarzanie żądania API GET /api/produkty/4.
+2024-10-28 12:10:03;INFO;Przetwarzanie żądania API GET /api/produkty/5.
+2024-10-28 12:10:03;INFO;Przetwarzanie żądania API GET /api/produkty/6.
+2024-10-28 12:10:04;INFO;Przetwarzanie żądania API GET /api/produkty/7.
+2024-10-28 12:10:04;INFO;Przetwarzanie żądania API GET /api/produkty/8.
+2024-10-28 12:10:05;INFO;Przetwarzanie żądania API GET /api/produkty/9.
+2024-10-28 12:10:05;INFO;Przetwarzanie żądania API GET /api/produkty/10.
+2024-10-28 12:10:06;INFO;Przetwarzanie żądania API GET /api/produkty/11.
+2024-10-28 12:10:06;INFO;Przetwarzanie żądania API GET /api/produkty/12.
+2024-10-28 12:10:07;INFO;Przetwarzanie żądania API GET /api/produkty/13.
+2024-10-28 12:10:07;INFO;Przetwarzanie żądania API GET /api/produkty/14.
+2024-10-28 12:10:08;INFO;Przetwarzanie żądania API GET /api/produkty/15.
+2024-10-28 12:10:08;INFO;Przetwarzanie żądania API GET /api/produkty/16.
+2024-10-28 12:10:09;INFO;Przetwarzanie żądania API GET /api/produkty/17.
+2024-10-28 12:10:09;INFO;Przetwarzanie żądania API GET /api/produkty/18.
+2024-10-28 12:10:10;INFO;Przetwarzanie żądania API GET /api/produkty/19.
+2024-10-28 12:10:10;INFO;Przetwarzanie żądania API GET /api/produkty/20.
+2024-10-28 12:10:11;INFO;Przetwarzanie żądania API GET /api/produkty/21.
+2024-10-28 12:10:11;INFO;Przetwarzanie żądania API GET /api/produkty/22.
+2024-10-28 12:10:12;INFO;Przetwarzanie żądania API GET /api/produkty/23.
+2024-10-28 12:10:12;INFO;Przetwarzanie żądania API GET /api/produkty/24.
+2024-10-28 12:10:13;INFO;Przetwarzanie żądania API GET /api/produkty/25.
+2024-10-28 12:10:13;INFO;Przetwarzanie żądania API GET /api/produkty/26.
+2024-10-28 12:10:14;INFO;Przetwarzanie żądania API GET /api/produkty/27.
+2024-10-28 12:10:14;INFO;Przetwarzanie żądania API GET /api/produkty/28.
+2024-10-28 12:10:15;INFO;Przetwarzanie żądania API GET /api/produkty/29.
+2024-10-28 12:10:15;INFO;Przetwarzanie żądania API GET /api/produkty/30.
+2024-10-28 12:10:16;INFO;Przetwarzanie żądania API GET /api/produkty/31.
+2024-10-28 12:10:16;INFO;Przetwarzanie żądania API GET /api/produkty/32.
+2024-10-28 12:10:17;INFO;Przetwarzanie żądania API GET /api/produkty/33.
+2024-10-28 12:10:17;INFO;Przetwarzanie żądania API GET /api/produkty/34.
+2024-10-28 12:10:18;INFO;Przetwarzanie żądania API GET /api/produkty/35.
+2024-10-28 12:10:18;INFO;Przetwarzanie żądania API GET /api/produkty/36.
+2024-10-28 12:10:19;INFO;Przetwarzanie żądania API GET /api/produkty/37.
+2024-10-28 12:10:19;INFO;Przetwarzanie żądania API GET /api/produkty/38.
+2024-10-28 12:10:20;INFO;Przetwarzanie żądania API GET /api/produkty/39.
+2024-10-28 12:10:20;INFO;Przetwarzanie żądania API GET /api/produkty/40.
+2024-10-28 12:10:21;INFO;Przetwarzanie żądania API GET /api/produkty/41.
+2024-10-28 12:10:21;INFO;Przetwarzanie żądania API GET /api/produkty/42.
+2024-10-28 12:10:22;INFO;Przetwarzanie żądania API GET /api/produkty/43.
+2024-10-28 12:10:22;INFO;Przetwarzanie żądania API GET /api/produkty/44.
+2024-10-28 12:10:23;INFO;Przetwarzanie żądania API GET /api/produkty/45.
+2024-10-28 12:10:23;INFO;Przetwarzanie żądania API GET /api/produkty/46.
+2024-10-28 12:10:24;INFO;Przetwarzanie żądania API GET /api/produkty/47.
+2024-10-28 12:10:24;INFO;Przetwarzanie żądania API GET /api/produkty/48.
+2024-10-28 12:10:25;INFO;Przetwarzanie żądania API GET /api/produkty/49.
+2024-10-28 12:10:25;INFO;Przetwarzanie żądania API GET /api/produkty/50.
+2024-10-28 12:10:26;INFO;Przetwarzanie żądania API GET /api/produkty/51.
+2024-10-28 12:10:26;INFO;Przetwarzanie żądania API GET /api/produkty/52.
+2024-10-28 12:10:27;INFO;Przetwarzanie żądania API GET /api/produkty/53.
+2024-10-28 12:10:27;INFO;Przetwarzanie żądania API GET /api/produkty/54.
+2024-10-28 12:10:28;INFO;Przetwarzanie żądania API GET /api/produkty/55.
+2024-10-28 12:10:28;INFO;Przetwarzanie żądania API GET /api/produkty/56.
+2Siedem;osiem;dziewiec
+2024-10-28 12:10:29;INFO;Przetwarzanie żądania API GET /api/produkty/57.
+2024-10-28 12:10:29;INFO;Przetwarzanie żądania API GET /api/produkty/58.
+2024-10-28 12:10:30;INFO;Przetwarzanie żądania API GET /api/produkty/59.
+2024-10-28 12:10:30;INFO;Przetwarzanie żądania API GET /api/produkty/60.
+2024-10-28 12:10:31;INFO;Przetwarzanie żądania API GET /api/produkty/61.
+2024-10-28 12:10:31;INFO;Przetwarzanie żądania API GET /api/produkty/62.
+2024-10-28 12:10:32;INFO;Przetwarzanie żądania API GET /api/produkty/63.
+2024-10-28 12:10:32;INFO;Przetwarzanie żądania API GET /api/produkty/64.
+2024-10-28 12:10:33;INFO;Przetwarzanie żądania API GET /api/produkty/65.
+2024-10-28 12:10:33;INFO;Przetwarzanie żądania API GET /api/produkty/66.
+2024-10-28 12:10:34;INFO;Przetwarzanie żądania API GET /api/produkty/67.
+2024-10-28 12:10:34;INFO;Przetwarzanie żądania API GET /api/produkty/68.
+2024-10-28 12:10:35;INFO;Przetwarzanie żądania API GET /api/produkty/69.
+2024-10-28 12:10:35;INFO;Przetwarzanie żądania API GET /api/produkty/70.
+2024-10-28 12:10:36;INFO;Przetwarzanie żądania API GET /api/produkty/71.
+2024-10-28 12:10:36;INFO;Przetwarzanie żądania API GET /api/produkty/72.
+2024-10-28 12:10:37;INFO;Przetwarzanie żądania API GET /api/produkty/73.
+2024-10-28 12:10:37;INFO;Przetwarzanie żądania API GET /api/produkty/74.
+2024-10-28 12:10:38;INFO;Przetwarzanie żądania API GET /api/produkty/75.
+2024-10-28 12:10:38;INFO;Przetwarzanie żądania API GET /api/produkty/76.
+2024-10-28 12:10:39;INFO;Przetwarzanie żądania API GET /api/produkty/77.
+2024-10-28 12:10:39;INFO;Przetwarzanie żądania API GET /api/produkty/78.
+2024-10-28 12:10:40;INFO;Przetwarzanie żądania API GET /api/produkty/79.
+2024-10-28 12:10:40;INFO;Przetwarzanie żądania API GET /api/produkty/80.
+2024-10-28 12:10:41;INFO;Przetwarzanie żądania API GET /api/produkty/81.
+2024-10-28 12:10:41;INFO;Przetwarzanie żądania API GET /api/produkty/82.
+2024-10-28 12:10:42;INFO;Przetwarzanie żądania API GET /api/produkty/83.
+2024-10-28 12:10:42;INFO;Przetwarzanie żądania API GET /api/produkty/84.
+2024-10-28 12:10:43;INFO;Przetwarzanie żądania API GET /api/produkty/85.
+2024-10-28 12:10:43;INFO;Przetwarzanie żądania API GET /api/produkty/86.
+2024-10-28 12:10:44;INFO;Przetwarzanie żądania API GET /api/produkty/87.
+2024-10-28 12:10:44;INFO;Przetwarzanie żądania API GET /api/produkty/88.
+2024-10-28 12:10:45;INFO;Przetwarzanie żądania API GET /api/produkty/89.
+2024-10-28 12:10:45;INFO;Przetwarzanie żądania API GET /api/produkty/90.
+2024-10-28 12:10:46;INFO;Przetwarzanie żądania API GET /api/produkty/91.
+2024-10-28 12:10:46;INFO;Przetwarzanie żądania API GET /api/produkty/92.
+2024-10-28 12:10:47;INFO;Przetwarzanie żądania API GET /api/produkty/93.
+2024-10-28 12:10:47;INFO;Przetwarzanie żądania API GET /api/produkty/94.
+2024-10-28 12:10:48;INFO;Przetwarzanie żądania API GET /api/produkty/95.
+2024-10-28 12:10:48;INFO;Przetwarzanie żądania API GET /api/produkty/96.
+2024-10-28 12:10:49;INFO;Przetwarzanie żądania API GET /api/produkty/97.
+2024-10-28 12:10:49;INFO;Przetwarzanie żądania API GET /api/produkty/98.
+2024-10-28 12:10:50;INFO;Przetwarzanie żądania API GET /api/produkty/99.
+2024-10-28 12:10:50;INFO;Przetwarzanie żądania API GET /api/produkty/100.
+2024-10-28 12:11:00;INFO;Zakończono serię żądań.
+2024-10-28 12:30:00,INFO,Użyto przecinka zamiast średnika.
+2024-10-28 12:30:01;INFO;
+2024-10-28 12:30:02;INFO;Aplikacja zakończyła działanie.
