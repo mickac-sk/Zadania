@@ -1,6 +1,4 @@
-# Zadanie Egzaminacyjne INF.03: System Rejestracji z Audytem Bezpieczeństwa
-
-**Czas na wykonanie:** 120 minut
+# Zadanie INF.03: System Rejestracji z Audytem Bezpieczeństwa
 
 ## Kontekst Zadania
 Twoim zadaniem jest stworzenie bezpiecznego modułu rejestracji dla serwisu internetowego. Dane użytkowników muszą być trwale zapisywane w bazie danych MySQL. Dodatkowo, ze względów bezpieczeństwa, administrator wymaga, aby **każda** próba rejestracji (zarówno udana, jak i błędna) była monitorowana i odnotowywana w pliku tekstowym `security.log` wraz z dokładną datą i adresem IP użytkownika.
