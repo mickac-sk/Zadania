@@ -1,13 +1,3 @@
----
-puppeteer:
-    format: "A4"
-    margin:
-        top: "2.5cm"
-        bottom: "2cm"
-        left: "2.5cm"
-        right: "2cm"
----
-
 # Zadanie Egzaminacyjne INF.03: System Rejestracji z Audytem Bezpieczeństwa
 
 **Czas na wykonanie:** 120 minut
