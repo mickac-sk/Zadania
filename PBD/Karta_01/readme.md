@@ -3,7 +3,7 @@ Symulacja środowiska egzaminacyjnego (XAMPP / phpMyAdmin)
 
 ### INSTRUKCJA ORGANIZACJI PRACY
 Zanim zaczniesz pisać kod SQL, przygotuj środowisko pracy zgodnie z wymogami CKE:
-1. Na pulpicie utwórz folder o nazwie w formacie nazwiski_imie (np. kowaslki_jan).
+1. Na pulpicie utwórz folder o nazwie w formacie nazwiski_imie (np. kowalski_jan).
 2. Wewnątrz tego folderu utwórz podfolder o nazwie baza.
 3. Uruchom XAMPP (Apache + MySQL) i przejdź do phpMyAdmin (localhost/phpmyadmin).
 4. Wszystkie zapytania SQL zapisuj w pliku tekstowym kwerendy.txt w podfolderze baza.
@@ -47,7 +47,7 @@ Wykonaj eksport całej bazy `Sklep` do pliku **`sklep.sql`**. Plik umieść w fo
 2. **Rozbudowa Struktury (DDL):** Dopisz do pliku `kwerendy.txt` zapytania tworzące tabele i wykonaj je:
    * Tabela **czytelnicy**:
      * `IDCzytelnik` (Klucz Główny),
-     * `Nazwisko`, `Imie`, Ad`r`es, `Miasto`, `KodPocztowy` (tekst),
+     * `Nazwisko`, `Imie`, `Adres`, `Miasto`, `KodPocztowy` (tekst),
      * `DataZapisania` (data), `Blokada` (logiczny - TINYINT/BOOLEAN).
    * Tabela **wypozyczenia**:
      * `EgzemplarzID` (Klucz Główny - UWAGA: Relacja 1:1 z tabelą egzemplarze),
